@@ -1,0 +1,10 @@
+c:\users\sanjsi\documents\visual studio 2015\Projects\ConcurrentDictionary\MyDictionaryTests\bin\Debug\MyDictionaryTests.dll
+c:\users\sanjsi\documents\visual studio 2015\Projects\ConcurrentDictionary\MyDictionaryTests\bin\Debug\MyDictionaryTests.pdb
+c:\users\sanjsi\documents\visual studio 2015\Projects\ConcurrentDictionary\MyDictionaryTests\bin\Debug\ConcurrentDictionary.dll
+c:\users\sanjsi\documents\visual studio 2015\Projects\ConcurrentDictionary\MyDictionaryTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\sanjsi\documents\visual studio 2015\Projects\ConcurrentDictionary\MyDictionaryTests\bin\Debug\ConcurrentDictionary.pdb
+c:\users\sanjsi\documents\visual studio 2015\Projects\ConcurrentDictionary\MyDictionaryTests\obj\Debug\MyDictionaryTests.csprojResolveAssemblyReference.cache
+c:\users\sanjsi\documents\visual studio 2015\Projects\ConcurrentDictionary\MyDictionaryTests\obj\Debug\MyDictionaryTests.dll
+c:\users\sanjsi\documents\visual studio 2015\Projects\ConcurrentDictionary\MyDictionaryTests\obj\Debug\MyDictionaryTests.pdb
+c:\users\sanjsi\documents\visual studio 2015\Projects\ConcurrentDictionary\MyDictionaryTests\bin\Debug\PostSharp.dll
+c:\users\sanjsi\documents\visual studio 2015\Projects\ConcurrentDictionary\MyDictionaryTests\bin\Debug\PostSharp.xml
